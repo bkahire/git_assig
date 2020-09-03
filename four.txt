@@ -1,1 +1,3 @@
 this is fourth text file
+
+this text is edited in locale setup
